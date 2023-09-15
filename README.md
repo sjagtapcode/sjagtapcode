@@ -37,9 +37,7 @@ Welcome to my GitHub profile! I'm a passionate Senior React Developer with over 
 
 <p align="center">
 <div align=center>
-  <a href="https://github.com/sjagtapdeqode/JavaScriptCodingInterviewQuestions" title="Go to Source">
       <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=sjagtapdeqode&theme=onedark&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
 </div>
 </p>
 
