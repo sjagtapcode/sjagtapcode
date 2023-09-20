@@ -55,7 +55,7 @@ Feel free to reach out to me:
 - Email: [swapsmjagtap@gmail.com](mailto:swapsmjagtap@gmail.com)
 - github: [sjagtapdeqode](https://github.com/sjagtapdeqode)
 - Phone: +91 8087477219
-- LinkedIn: [https://www.linkedin.com/in/swapnil-jagtap-8976b0143/](Link to your LinkedIn Profile)
+- LinkedIn: [https://www.linkedin.com/in/swapnil-jagtap-8976b0143](https://www.linkedin.com/in/swapnil-jagtap-8976b0143)
 
 Let's connect and collaborate on exciting projects!
 
