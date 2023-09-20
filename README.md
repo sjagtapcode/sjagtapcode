@@ -35,14 +35,15 @@ Welcome to my GitHub profile! I'm a passionate Senior React Developer with over 
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 
+<!--
 <p align="center">
 <div align=center>
       <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=sjagtapdeqode&theme=onedark&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
 </div>
 </p>
 
+-->
 <hr />
-
 
 <!--
 **sjagtapdeqode/sjagtapdeqode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
