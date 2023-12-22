@@ -23,9 +23,17 @@ Welcome to my GitHub profile! I'm a passionate Senior React Developer with over 
 
 - Browser Extension - In a Research & Development role, I developed a browser extension using VueJS based on smart contracts in Ethereum.
 
+<hr />
+<h4>Personal</h4>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjagtapcode&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&count_private=true" alt="sjagtapdeqode" /></p>
+<!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sjagtapdeqode&show_icons=true&locale=en&theme=chartreuse-dark&count_private=true" alt="sjagtapdeqode" width="410" /></p> -->
+<!-- <br><br><br><br><br> -->
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sjagtapcode&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&count_private=true)
+
 
 --------
-
+<h4>At Deoqde</h4>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjagtapdeqode&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&count_private=true" alt="sjagtapdeqode" /></p>
 <!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sjagtapdeqode&show_icons=true&locale=en&theme=chartreuse-dark&count_private=true" alt="sjagtapdeqode" width="410" /></p> -->
 <!-- <br><br><br><br><br> -->
@@ -33,9 +41,9 @@ Welcome to my GitHub profile! I'm a passionate Senior React Developer with over 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sjagtapdeqode&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&count_private=true)
 
 
+<!--
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 
-<!--
 <p align="center">
 <div align=center>
       <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=sjagtapdeqode&theme=onedark&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
@@ -43,7 +51,6 @@ Welcome to my GitHub profile! I'm a passionate Senior React Developer with over 
 </p>
 
 -->
-<hr />
 
 <!--
 **sjagtapdeqode/sjagtapdeqode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
