@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate Senior React Developer with over 
 
 <hr />
 <h4>Personal</h4>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjagtapcode&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&count_private=true" alt="sjagtapdeqode" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjagtapcode&count_private=true&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="sjagtapcode" /></p>
 <!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sjagtapdeqode&show_icons=true&locale=en&theme=chartreuse-dark&count_private=true" alt="sjagtapdeqode" width="410" /></p> -->
 <!-- <br><br><br><br><br> -->
 
