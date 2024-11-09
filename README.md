@@ -13,6 +13,8 @@ Welcome to my GitHub profile! I'm a passionate Senior React Developer with over 
 
 ## 🌟 Highlights
 
+- Orb.club - A Web3 Social Media App where creators can earn their rightfull share built on top of lens protocol. Took solo ownership and responsibility for building web applications using NextJS and NodeJS at Backend. Built multiple projects and features from scratch including login with wallet and email, withdrawing & distributing funds from safe wallets & user wallets, opengraph image generation, post and profile web pages and uniswap swaping currencies.
+
 - Vaynersports Pass (Rewards) - A Utility-First Sports NFT Project offering unique collectibles, VaynerSports perks, and global event access. I served as a Senior Frontend Engineer using NextJS, Material UI, and NestJS, creating features like Rewards shop, Mint Pages, Raffles, and Auctions.
 
 - FIHP (Ticketing) - An NFT Gated Ticketing Platform that allows special entries. I worked as a Fullstack Developer using NextJS, TailwindCSS, TRPC, and NodeJS, designing a customizable ticketing WebApp.
