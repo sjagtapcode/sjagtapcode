@@ -65,7 +65,7 @@ Welcome to my GitHub profile! I'm a passionate Senior React Developer with over 
 Feel free to reach out to me:
 
 - Email: [swapsmjagtap@gmail.com](mailto:swapsmjagtap@gmail.com)
-- github: [sjagtapdeqode](https://github.com/sjagtapdeqode)
+- github: [sjagtapcode](https://github.com/sjagtapcode)
 - Phone: +91 8087477219
 - LinkedIn: [https://www.linkedin.com/in/swapnil-jagtap-8976b0143](https://www.linkedin.com/in/swapnil-jagtap-8976b0143)
 
