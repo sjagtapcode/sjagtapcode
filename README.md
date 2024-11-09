@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate Senior React Developer with over 
 - **Frontend**: React.js, Next.js, Redux, JavaScript/ES6, HTML, CSS, SCSS, Tailwind CSS, Material UI
 - **Backend**: Node.js, Express.js, Nest.js
 - **Databases**: MySQL, PostgreSQL, MongoDB, FireDB, DynamoDB
-- **Development Tools**: Git, VS Code, Webpack, Babel
+- **Development Tools**: Git, VS Code
 - **Testing**: Jest, React Testing Library, Cypress
 - **Deployment & Hosting**: Vercel, Heroku, Netlify, AWS
 
