@@ -34,11 +34,10 @@ Welcome to my GitHub profile! I'm a passionate Senior React Developer with over 
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sjagtapcode)](https://git.io/streak-stats) -->
 
-<br /> <br /> <br /> <br /> <br /> <br /> 
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 <h4>At Deoqde</h4>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjagtapdeqode&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&count_private=true" alt="sjagtapdeqode" />
-<br /> <br /> <br /> <br /> <br /> <br /> 
-
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 <!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sjagtapdeqode&show_icons=true&locale=en&theme=chartreuse-dark&count_private=true" alt="sjagtapdeqode" width="410" /></p> -->
 <!-- <br><br><br><br><br> -->
 
