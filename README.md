@@ -27,22 +27,22 @@ Welcome to my GitHub profile! I'm a passionate Senior React Developer with over 
 
 - Browser Extension - In a Research & Development role, I developed a browser extension using VueJS based on smart contracts in Ethereum.
 
-<hr />
 <h4>Personal</h4>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjagtapcode&count_private=true&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="sjagtapcode" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjagtapcode&count_private=true&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="sjagtapcode" />
 <!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sjagtapdeqode&show_icons=true&locale=en&theme=chartreuse-dark&count_private=true" alt="sjagtapdeqode" width="410" /></p> -->
 <!-- <br><br><br><br><br> -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sjagtapcode)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sjagtapcode)](https://git.io/streak-stats) -->
 
-
---------
+<br /> <br /> <br /> <br /> <br /> <br /> 
 <h4>At Deoqde</h4>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjagtapdeqode&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&count_private=true" alt="sjagtapdeqode" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjagtapdeqode&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&count_private=true" alt="sjagtapdeqode" />
+<br /> <br /> <br /> <br /> <br /> <br /> 
+
 <!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sjagtapdeqode&show_icons=true&locale=en&theme=chartreuse-dark&count_private=true" alt="sjagtapdeqode" width="410" /></p> -->
 <!-- <br><br><br><br><br> -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sjagtapdeqode)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sjagtapdeqode)](https://git.io/streak-stats) -->
 
 
 <!--
