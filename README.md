@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a passionate Senior React Developer with over 
 <!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sjagtapdeqode&show_icons=true&locale=en&theme=chartreuse-dark&count_private=true" alt="sjagtapdeqode" width="410" /></p> -->
 <!-- <br><br><br><br><br> -->
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sjagtapcode&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sjagtapcode)](https://git.io/streak-stats)
 
 
 --------
@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm a passionate Senior React Developer with over 
 <!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sjagtapdeqode&show_icons=true&locale=en&theme=chartreuse-dark&count_private=true" alt="sjagtapdeqode" width="410" /></p> -->
 <!-- <br><br><br><br><br> -->
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sjagtapdeqode&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sjagtapdeqode)](https://git.io/streak-stats)
 
 
 <!--
